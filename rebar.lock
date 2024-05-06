@@ -1,6 +1,6 @@
 [{<<"log2_service">>,
   {git,"https://github.com/joq62/log2_service.git",
-       {ref,"fe3acf427c165351a05ef61f26d910e0c1646230"}},
+       {ref,"3d5539c9225a265ea6c944a71b8b4db96c4ad77a"}},
   0},
  {<<"log_service">>,
   {git,"https://github.com/joq62/log_service.git",
